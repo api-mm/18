@@ -1,16 +1,10 @@
 {
-  "xxxfile_post": "https://www.xxxfiles.com/top-rated/today/1/",
-  "xxxfile_cate": "https://www.xxxfiles.com/categories/",
-  "xxxfile_search": "https://www.xxxfiles.com/search/1/?q\u003d%.s",
-  "vip_post": "https://en.paradisehill.cc/all/?sort\u003dcreated_at\u0026page\u003d1",
-  "vip_cate": "https://en.paradisehill.cc/categories/",
-  "vip_search": "https://en.paradisehill.cc/search/?pattern\u003d%.s\u0026page\u003d1",
-  "hentai_post": "https://hentaiworld.tv/all-episodes/page/1/",
-  "hentai_cate": "https://hentaiworld.tv/tags/",
-  "hentai_search": "https://hentaiworld.tv/page/1/?s\u003d%.s",
-  "jav_post": "http://www.japaneseporno.pro/fresh/1",
-  "jav_search": "http://www.japaneseporno.pro/find/1/?q\u003d%.s",
-  "jav_cate": "http://www.japaneseporno.pro/category/",
-  "xnx_post": "https://www.xnxx.com/search/Myanmar/0",
-  "xnx_search": "https://www.xnxx.com/search/%.s/0"
+  
+  "h1": "https://www.xnxx.com/search/Myanmar/0",
+  "h1_search": "https://www.xnxx.com/search/%.s/0",
+  "h2": "https://www.xnxx.com/search/Japan/0",
+  "h2_search": "https://www.xnxx.com/search/%.s/0",
+  "h3": "https://en.paradisehill.cc/all/?sort\u003dcreated_at\u0026page\u003d1",
+  "h3_cate": "https://en.paradisehill.cc/categories/",
+  "h3_search": "https://en.paradisehill.cc/search/?pattern\u003d%.s\u0026page\u003d1"
 }
