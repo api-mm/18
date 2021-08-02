@@ -5,7 +5,7 @@
   "h1_search": "https://www.xnxx.com/search/%.s/%.page",
   "h2": "https://www.xnxx.com/search/Japan/%.page",
   "h2_search": "https://www.xnxx.com/search/%.s/%.page",
-  "h3": "https://en.paradisehill.cc/all/?sort\created_at\page\%.page",
+  "h3": "https://en.paradisehill.cc/all/?sort/created_at/page/%.page",
   "h3_cate": "https://en.paradisehill.cc/categories/",
-  "h3_search": "https://en.paradisehill.cc/search/?pattern\%.s\page\%.page"
+  "h3_search": "https://en.paradisehill.cc/search/?pattern/%.s/page/%.page"
 }
